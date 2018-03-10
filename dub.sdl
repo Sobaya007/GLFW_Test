@@ -1,0 +1,8 @@
+name "glfw"
+description "A minimal D application."
+authors "sobaya"
+copyright "Copyright © 2018, sobaya"
+license "proprietary"
+dependency "derelict-gl3" version="~>2.0.0-alpha.5"
+dependency "derelict-glfw3" version="~>4.0.0-alpha.6"
+dependency "derelict-fi" version="~>3.0.0-beta.1"
